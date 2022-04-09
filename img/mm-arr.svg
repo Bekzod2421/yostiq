@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="7" viewBox="0 0 11 7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="mm-arr.svg" class="cls-1" d="M442.005,130.4l-4.1,4.1,0.1,0.1-1.4,1.4-0.1-.1-0.1.1-1.4-1.4,0.1-.1-4.1-4.1,1.4-1.4,4.1,4.1,4.1-4.1Z" transform="translate(-431 -129)"/>
+</svg>
